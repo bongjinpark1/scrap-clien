@@ -1,0 +1,25 @@
+{
+  "name": "scrap-clien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongjinpark1/scrap-clien.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bongjinpark1/scrap-clien/issues"
+  },
+  "homepage": "https://github.com/bongjinpark1/scrap-clien#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "telegraf": "^3.36.0"
+  }
+}
